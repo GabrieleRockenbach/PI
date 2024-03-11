@@ -20,7 +20,7 @@
 
 ### Objetivo do projeto
 
-O presente projeto tem como objetivo a idealização e construção das telas e protótipos navegáveis, de acordo com o diagrama de caso de uso e diagrama de classes realizados na primeira etapa do propjeto. 
+O presente projeto tem como objetivo a idealização e construção das telas e protótipos navegáveis, de acordo com o diagrama de caso de uso e diagrama de classes realizados na primeira etapa do projeto. 
 
 #
 
